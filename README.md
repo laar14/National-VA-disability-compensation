@@ -90,4 +90,4 @@ python analyze_va_disability_data.py
 ---
 
 ## ✒️ Author & Portfolio Note
-*Generated with Gemini Notebook. Data grounded in official U.S. Department of Veterans Affairs Disability Compensation surveillance records.*
+*Visuals Generated with Gemini Notebook. Data grounded in official U.S. Department of Veterans Affairs Disability Compensation surveillance records.*
